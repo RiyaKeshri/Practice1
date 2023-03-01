@@ -1,8 +1,8 @@
 hello world 
 hello java
-<<<<<<< Updated upstream
+
 
 hello AI ML
-=======
+
 hello python
->>>>>>> Stashed changes
+
