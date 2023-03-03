@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 hello new
 hello java
+=======
+
+hello devops
+hello AI
+hello java
+
+>>>>>>> 304e5c7a156d5875ee9f0659688296869ac221cb
 
 
 
